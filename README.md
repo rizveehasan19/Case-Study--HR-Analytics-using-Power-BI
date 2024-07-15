@@ -1,4 +1,4 @@
-# Case-Study--HR-Analytics-using-Power-BI
+# HR Analytics using Power BI
 
 In this latest case study, I've analyzed a fictional company's HR domain data and visualized the insights through an interactive dashboard. Here are some key highlights:
 
